@@ -1,0 +1,35 @@
+# Personal
+workflow.json
+words-*.txt
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage reports
+coverage
+
+# Dependency directory
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
